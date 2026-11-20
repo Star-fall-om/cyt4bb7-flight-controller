@@ -1,0 +1,16 @@
+# 本地依赖和 IAR 工作区产物
+/libraries/
+**/Debug_*/
+**/Release_*/
+**/settings/
+**/BrowseInfo/
+*.ewp
+*.eww
+*.ewd
+*.ewt
+*.dep
+*.o
+*.out
+*.sim
+*.hex
+*.map
